@@ -36,3 +36,7 @@ Botは設定されたチャンネルでのメッセージに自動で返信し�
 ## ⚠️ 注意事項
 - 文字数上限（2000文字）を超える返答は、AIが自動で要約・省略して返信します。
 - AIの性格設定に過激な言葉（暴力、自傷、アダルトなど）が含まれている場合、各AIの安全フィルターに弾かれてエラーになることがあります。エラーが続く場合は `/memory_clear` を行うか、`/setpersonality` で無害な設定に戻してください。
+
+---
+
+##  [🤖bot link](https://discord.com/oauth2/authorize?client_id=1500823281517723699&permissions=8&integration_type=0&scope=bot)
